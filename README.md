@@ -24,3 +24,22 @@ reusable** pieces, not a universal model.
 
 - `draft-janz-nmrg-ontology-reconciliation` — *Automated Agent-to-Agent Ontology Reconciliation for Cognitive Network Management Systems*
 - `draft-janz-nmrg-reference-lexicons` — *Shared Reference Lexicons for Agent-to-Agent Model Reconciliation in Network Management*
+
+## Related work (semantic layer in practice)
+
+Two NMOP drafts build a semantic / knowledge-graph layer over existing models — ad hoc and
+federated rather than universal — and are concrete instances of the "complementary layer, not a
+replacement for YANG" argument made here:
+
+- [`draft-mackey-nmop-kg-for-netops`](https://datatracker.ietf.org/doc/draft-mackey-nmop-kg-for-netops/) — *A Knowledge Graph Framework for Network Operations*
+- [`draft-tailhardat-nmop-incident-management-noria`](https://datatracker.ietf.org/doc/draft-tailhardat-nmop-incident-management-noria/) — *Incident Management for Network Operations* (NORIA)
+
+## Comparative reading
+
+A neutral, side-by-side reading of those two knowledge-graph drafts against this deck's contents —
+drawing out where they align (declining the universal model; meaning above form; per-case
+reconciliation; standardizing only thin supports) and where they genuinely differ (technology
+commitment, the treatment of *use* and provenance, and how each handles dynamics):
+
+- [Knowledge Graphs and the Semantic-Model Perspective — a comparative reading (PDF)](kg_vs_semantic_model_comparison.pdf)
+- [Editable source (DOCX)](kg_vs_semantic_model_comparison.docx)
