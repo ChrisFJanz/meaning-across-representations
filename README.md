@@ -43,3 +43,12 @@ commitment, the treatment of *use* and provenance, and how each handles dynamics
 
 - [Knowledge Graphs and the Semantic-Model Perspective — a comparative reading (PDF)](kg_vs_semantic_model_comparison.pdf)
 - [Editable source (DOCX)](kg_vs_semantic_model_comparison.docx)
+
+## Background & history
+
+A factual reference map of the IETF/NMOP knowledge-graph and semantic-model effort behind those
+drafts — the hackathons (YANG2RDF, RML, SIMAP↔NORIA-O), the cluster of related Internet-Drafts,
+the NMOP Knowledge Graph Design Team, and the tools, results and findings generated — with
+hyperlinks throughout:
+
+- [Knowledge Graphs for Network Operations in the IETF — history, documents, and results](nmop_kg_history.md)
