@@ -15,6 +15,12 @@ resulting research problem: how to support maximally-automated ad hoc semantic-m
 reconciliation across systems, and use — with **thin** standardizable supports and **publishable,
 reusable** pieces, not a universal model.
 
+The closing slide frames this as a proposed **NMRG × NMOP collaboration**, centred on automating the
+process with cognitive machines and on the reference and accumulating supports that make that
+automation functional and trustworthy — with a human-in-the-loop experiment over cases such as
+anomaly semantics, where research contributes the ontology and lexicon and operators contribute the
+pragmatics and validation.
+
 ## Slides
 
 - [Meaning Across Representations — slides (PDF)](semantic_model_deck.pdf)
